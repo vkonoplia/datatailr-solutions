@@ -1,0 +1,13 @@
+{
+  "rewrites": [
+    { "source": "/solutions/industry/hedgefunds", "destination": "/hedgefunds.html" },
+    { "source": "/solutions/industry/banks", "destination": "/banks.html" },
+    { "source": "/solutions/industry/insurance", "destination": "/insurance.html" },
+    { "source": "/solutions/industry/proprietary-trading", "destination": "/proprietary-trading.html" },
+    { "source": "/solutions/role/quants", "destination": "/quants.html" },
+    { "source": "/solutions/role/ctos", "destination": "/ctos.html" },
+    { "source": "/solutions/role/devops", "destination": "/devops.html" },
+    { "source": "/solutions/role/risk-compliance", "destination": "/risk-compliance.html" },
+    { "source": "/solutions", "destination": "/solutions.html" }
+  ]
+}
